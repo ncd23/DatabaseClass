@@ -1,4 +1,6 @@
-#this is a comment in the ruby language
+#Default is "World"
+#Author:Nicole (fds)
+
 name = ARGV.first || "World"
 
 puts "Hello, #{ARGV.first}!"
